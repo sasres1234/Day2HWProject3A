@@ -6,5 +6,12 @@ public class Day2HW3 {
 		
 		System.out.println("Git practice");
 	}
-
+ public void add4() {
+	 
+	 System.out.println("a+b");
+ }
+public void add5() {
+	 
+	 System.out.println("a+b");
+}
 }
